@@ -1,0 +1,18 @@
+id: encargos--imagen-susurros
+title: Susurros desde la tierra
+subtitle: Imagen
+image: 1-arte-grafico--3-encargos--17-imagen-susurros.webp
+description: |
+  - icon-user **Cliente:** Sururros desde la tierra.
+  - icon-lightbulb-on **Concepto:** Imagen, animación y diseño sonoro para el canal de la youtuber Susurros desde la tierra. \
+    Buscamos una atmosfera relajada y conectada con la tierra para invitar al usuario a entrar en un estado de calma, ya que el contenido principal del canal son vídeos de ASMR.
+  - icon-block-brick **Materiales:** Pintura digital y animación por frames.
+  - icon-clock **Duración del trabajo:** Una semana.
+rows:
+- type: gallery
+  design:
+    num: 1
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--3-encargos--17-imagen-susurros.webp

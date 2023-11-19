@@ -1,0 +1,28 @@
+id: pintura-mural--gaia
+title: Autocaravana
+subtitle: Pintura mural
+image: https://youtu.be/UYSD5pns2NQ
+description: |
+  - icon-user **Cliente:** All these humans y Susurros desde la tierra.
+  - icon-lightbulb-on **Concepto:** \
+    Portal a la naturaleza del ser. \
+    El ojo representa la visión profunda, la conexión con la sabiduria interior. \
+    Los rombos son un símbolo tradicional de la cultura andina. \
+    En el otro lado, encontramos una espiral con los ciclos lunares. \
+    Representación del paso del tiempo y de los ciclos. \
+    La espiral es un símbolo del cambio constante, de la creación y de la expansión.
+  - icon-block-brick **Materiales:** Compresor de pintura. Pintura al disolvente.
+  - icon-clock **Duración del trabajo:** 10 días.
+  - icon-hand **Trabajos:** Lijar (para mayor adherencia), empapelar, desengrasar, delinear y pintar.
+rows:
+- type: gallery
+  design:
+    num: 4
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--2-pintura-mural--15-gaia-1.jpg
+  - 1-arte-grafico--2-pintura-mural--15-gaia-2.jpg
+  - 1-arte-grafico--2-pintura-mural--15-gaia-3.jpg
+  - 1-arte-grafico--2-pintura-mural--15-gaia-4.jpg
+  - 1-arte-grafico--2-pintura-mural--15-gaia-5.jpg

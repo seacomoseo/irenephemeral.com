@@ -1,0 +1,44 @@
+id: baile-solo-jazz-y-lindy-hop
+title: Solo Jazz y Lindy Hop
+subtitle: Baile
+image: 3-baile-jazz-3.jpg
+description: |
+  Puedes ver algunas clases/vídeos gratuítos en youtube:
+
+rows:
+
+- type: columns
+  design:
+    num: 2
+    num_xs: true
+    title: null
+    uppercase: false
+    underline: true
+    color: white
+    ofuscate: true
+    label: Ver
+    licon: youtube
+    ratio: 16x9
+    inset: true
+  items:
+  - title: One by one, pasos básicos desde cero
+    link: https://www.youtube.com/watch?v=QdczUgi2tOk&list=PLQfNfWMa02K2ReeyiAR7BZzti1Kh5gpZT
+    image: https://i.ytimg.com/vi/QdczUgi2tOk/hq720_2.jpg
+  - title: Big apple (rutina clásica) [1/2]
+    link: https://www.youtube.com/watch?v=anGx_I5emAc&t=9s
+    image: https://i.ytimg.com/vi/anGx_I5emAc/hq720_2.jpg
+  - title: Big apple (rutina clásica) [2/2]
+    link: https://www.youtube.com/watch?v=u50BLsJzKEQ&t=1244s
+    image: https://i.ytimg.com/vi/u50BLsJzKEQ/hq720_2.jpg
+  - title: Musicalidad para bailarines de Lindy Hop
+    link: https://www.youtube.com/watch?v=48S2P0JYgmk&t=642s
+    image: https://i.ytimg.com/vi/48S2P0JYgmk/hq720_2.jpg
+  - title: Exhibición profes MSW 2022 (Morella Swing weekend 22)
+    link: https://www.youtube.com/watch?v=c1Mm-GLmRRA
+    image: https://i.ytimg.com/vi/c1Mm-GLmRRA/hq720_2.jpg
+  - title: Clase Abierta - Especial Shim Sham
+    link: https://www.youtube.com/watch?v=jmWNTrxK_7M&t=1s
+    image: https://i.ytimg.com/vi/jmWNTrxK_7M/hq720_2.jpg
+  - title: Competición de solo jazz
+    link: https://www.youtube.com/watch?v=JVfsIPRYXZk
+    image: https://i.ytimg.com/vi/JVfsIPRYXZk/hq720_2.jpg

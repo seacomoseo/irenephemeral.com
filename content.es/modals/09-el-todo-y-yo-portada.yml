@@ -1,0 +1,24 @@
+id: pintura-digital-y-dibujos--el-todo-y-yo-portada
+title: El todo y yo
+subtitle: Imagen para el single
+image: 1-arte-grafico--1-pintura-digital-y-dibujos--09-el-todo-y-yo-portada-1.jpg
+description: |
+  - icon-lightbulb-on **Concepto:** \
+    El cuerpo como templo. \
+    La meditación como espacio sagrado de revelaciones y conexión con la divinidad. \
+    Es la portada de mi primer single en música electrónica. \
+    El objetivo es conseguir un trance meditativo, mediante la música y lo visual, \
+    para, a través de la experiencia de escucharla, llegar a más elevadas verdades del ser. \
+    La portada nace para acompañar esta intención.
+  - icon-block-brick **Materiales:** Ilustración digital.
+  - icon-clock **Duración del trabajo:** Dos semanas.
+  - icon-volume **Diseño sonoro:** Junto con Lucas Dos lunas.
+rows:
+- type: gallery
+  design:
+    num: 6
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--09-el-todo-y-yo-portada-1.jpg
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--09-el-todo-y-yo-portada-2.webp

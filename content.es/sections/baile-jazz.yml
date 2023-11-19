@@ -1,0 +1,47 @@
+title: Baile Jazz
+size: sm
+icon: letras-baile-jazz
+more:
+  container: light
+rows:
+
+# - type: gallery
+#   design:
+#     num: 4
+#     alt: true
+#     wrap: false
+#     gap: true
+#   items:
+#   - image: 3-baile-jazz-4.jpg
+#     link: '#baile-solo-jazz-y-lindy-hop'
+
+- type: gallery
+  design:
+    num: 4
+    alt: true
+    gap: true
+  images:
+  - 3-baile-jazz-1.jpg
+  - 3-baile-jazz-3.jpg
+  - 3-baile-jazz-4.jpg
+  - 3-baile-jazz-2.jpg
+
+- type: columns
+  design:
+    align: left
+  items:
+  - description: |
+      En mis clases trabajo el baile desde una perspectiva de juego e improvisación.
+
+      Hago enfasis en ejercicios para entregar el cuerpo, relajar tensiones innecesarias y abrirse a la experiencia.
+
+      Sostengo una atmósfera para invitar a los alumnos a entrar en su propio estado de flow.
+
+      Bailar está al alcance de todos, nada donde llegar, nadie a quién parecerse.
+
+      Me gusta enseñar sirviendo de apoyo para que el alumno encuentre su propio disfrute en el movimiento.
+
+      Al mismo tiempo, aprendemos el lenguaje del jazz: pasos heredados de los bailarines originarios "old timers" y rítmos, tanto ideas clásicas como herramientas para generar sus propios rítmos y mezclas de pasos.
+
+      [btn icon-youtube Vídeos](#baile-solo-jazz-y-lindy-hop)
+      [btn icon-sparkles ¡Escríbeme con tu propuesta!](#contacto)

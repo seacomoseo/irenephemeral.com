@@ -1,0 +1,51 @@
+title: Irene Ephemeral
+description: Artista Multidisciplinar, Arte Visionario
+logo: logo-alt.svg
+legal_name: Irene Ephemeral
+legal_dni: 73396033C
+legal_email: ephemeralhand@gmail.com
+legal_location: Calle Corbalán Quiñonero, 3 30812 La Paca, Murcia
+country: España
+location_type:
+- Organization
+alternate_name: []
+price_range: ''
+google_analytics: G-VMJ8GDQLEP
+google_site_verification: ''
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://www.instagram.com/irenephemeral/
+- link: https://www.instagram.com/vibrajazz/
+# - link: https://www.facebook.com/irenephemeral/
+- link: https://www.youtube.com/channel/UCtMxSekTZTKDc18Fx496e5Q
+- link: https://www.behance.net/irenephemeral
+  icon: behance
+- link: https://open.spotify.com/artist/4dfj4hisrtJ6WEV0t3HK36
+  icon: spotify
+- link: https://open.spotify.com/artist/4dfj4hisrtJ6WEV0t3HK36
+  icon: spotify
+- link: https://www.ivoox.com/podcast-mensaje-del-arte_sq_f11454774_1.html
+  icon: ivoox
+- link: https://music.amazon.com/artists/B0BP4DW4WS/irene-ephemeral
+  icon: amazon
+- link: https://g.page/r/CTjZdBKSdzM8EAI
+

@@ -1,0 +1,45 @@
+title: Contacto
+button: link
+size: sm
+icon: letras-contacto
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes a Viernes
+    hours: 9:00 - 13:30 y 17:00 - 20:00
+  - type: br
+  - type: phone
+    label: +34 618 93 42 87
+  - type: whatsapp
+    label: +34 618 93 42 87
+  - type: mail
+    label: ephemeralhand@gmail.com
+  - type: address
+    active: false
+    name: Irene Ephemeral 👁️ Artista Multidisciplinar, Arte Visionario
+    streetAddress: Calle Corbalán Quiñonero, 3
+    postalCode: 30812
+    addressLocality: La Paca
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.8347870,37.8690100]}'
+  form:
+    fill_inputs: true
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: tel
+      name: Teléfono
+    - type: textarea
+      name: Mensaje
+      placeholder: ¡Cuéntame tu propuesta!
+      required: true
+  map:
+    active: false
+    link: https://g.page/r/CTjZdBKSdzM8EAI
+    iframe: ''

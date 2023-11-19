@@ -1,0 +1,21 @@
+id: pintura-digital-y-dibujos--unidad
+title: Unidad
+subtitle: Dibujo
+image: 1-arte-grafico--1-pintura-digital-y-dibujos--05-unidad-3.jpg
+description: |
+  - icon-lightbulb-on **Concepto:** Tras el fallecimiento de mi madre, en el proceso de duelo e introspección, escuché esta frase de una canción de Loli Cósmica:
+    > Todos venimos de la unidad, y a ella volvemos, como un rayo de luz, viajando en la eternidad
+
+    Esta frase me ayudó, no solo a sanar el duelo si no a entender mejor lo que es para mi la muerte, un proceso de transformación y de unión con el todo.
+  - icon-block-brick **Materiales:** Rotuladores de pintura al agua y lápices de colores.
+  - icon-clock **Duración del trabajo:** Una semana.
+rows:
+- type: gallery
+  design:
+    num: 4
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--05-unidad-1.jpg
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--05-unidad-2.jpg
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--05-unidad-3.jpg

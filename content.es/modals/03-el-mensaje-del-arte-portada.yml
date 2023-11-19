@@ -1,0 +1,23 @@
+id: pintura-digital-y-dibujos--el-mensaje-del-arte-portada
+title: El mensaje del arte
+subtitle: Imagen y diseño sonoro del podcast
+image: https://www.youtube.com/watch?v=LHjlnNU74vM
+description: |
+  - icon-lightbulb-on **Concepto:** Este podcast es un viaje a través de la espiritualidad, el arte y la filosofía, guiado por Irene Ephemeral. Hablaremos  sobre como caminamos la vida de manera consciente y sobre explorar la existencia desde una perspectiva artística. \
+    La imagen representa el ser creativo. Este ser representa un estado de flow y creatividad en el que cualquier persona puede entrar si se orienta la energía adecuadamente. \
+    Recibe energía e información "desde arriba" y la comparte y expresa simbolicamente a través de las manos, la trae al mundo de lo tangible mediante una escucha profunda y conexión con el universo.
+  - icon-block-brick **Materiales:** Ilustración digital.
+  - icon-clock **Duración del trabajo:** Dos semanas.
+  - icon-volume **Diseño sonoro:** Junto con Lucas Dos lunas.
+
+  [btn icon-spotify Podcast en Spotify](https://open.spotify.com/show/3Ql49sRqH3naSXQUQePQoh "nofollow")
+rows:
+- type: gallery
+  design:
+    num: 4
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--03-el-mensaje-del-arte-portada-1.webp
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--03-el-mensaje-del-arte-portada-2.webp
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--03-el-mensaje-del-arte-portada-3.webp

@@ -1,0 +1,24 @@
+id: video-y-animacion--la-botica-de-gaia
+title: La botica de Gaia
+subtitle: Animación
+image: https://youtu.be/n8pl6ValQ5M
+description: |
+  - icon-user **Cliente:** Allthesehumans y Sururros desde la tierra.
+  - icon-lightbulb-on **Concepto:** La botica de Gaia es un podcast sobre vivencias personales, psicodélicos, plantas maestras y saberes ancestrales. \
+    Bambú y May viven en su autocaravana viajando por el mundo, mientras narran sus vivencias y conocimientos.
+  - icon-block-brick **Materiales:** Pintura digital y animación por frames.
+  - icon-clock **Duración del trabajo:** Dos semanas.
+  - icon-volume **Diseño sonoro:** Lucas dos lunas.
+rows:
+- type: gallery
+  design:
+    num: 6
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--4-video-y-animacion--21-la-botica-de-gaia-1.webp
+  - 1-arte-grafico--4-video-y-animacion--21-la-botica-de-gaia-2.webp
+  - 1-arte-grafico--4-video-y-animacion--21-la-botica-de-gaia-3.webp
+  - 1-arte-grafico--4-video-y-animacion--21-la-botica-de-gaia-4.webp
+  - 1-arte-grafico--4-video-y-animacion--21-la-botica-de-gaia-5.webp
+  - 1-arte-grafico--4-video-y-animacion--21-la-botica-de-gaia-6.webp

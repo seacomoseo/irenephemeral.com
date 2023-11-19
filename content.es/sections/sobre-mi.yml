@@ -1,0 +1,85 @@
+title: Sobre mi
+icon: letras-sobre-mi
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    uppercase: true
+    underline: true
+    contain: true
+  items:
+  - order: 2
+    image: arte-grafico.png
+    more:
+      ratio: 1x1
+  - title: Arte y Filosofia
+    order: 1
+    description: |
+      Con diez años de experiencia y formada en el Grado de Diseño gráfico, he trabajado en diferentes estudios de diseño de la Comunidad Valenciana. 
+
+      Actualmente realizo encargos personalizados para clientes internacionales.
+
+      Estoy principalmente centrada e interesada en el arte como un camino de autoaprendizaje, me gusta crear desde donde habla el alma.
+
+      Cuido cada detalle porque siento que es la única posibilidad de hacer las cosas: con cariño y verdadera entrega.
+    more:
+      align: left
+      align_xl: right
+  - order: 3
+    image: musica-medicina.png
+  - title: Música
+    order: 4
+    description: |
+      He estado relacionada con diferentes expresiones artísticas desde bien pequeña, todas ellas con un interés común: improvisación y expresión artística.
+
+      Mi vida siempre ha estado rodeada de música. Mi experiencia cantando diez años en un coro me ha dado un conocimiento intuitivo del uso de mi voz.
+
+      Posteriormente, mi formación de baile me permitió profundizar en las improvisaciones rítmicas.
+
+      Actualmente, improviso, letra y música, acompañándome de guitarra y otros instrumentos.
+    more:
+      align: left
+  - order: 6
+    image: baile-jazz-alt.png
+    more:
+      ratio: 3x4
+  - title: Baile
+    order: 5
+    description: |
+      Mi pasión por el baile se desarrolló al descubrir el lindy hop, y desde el 2018 empecé a dar clase.
+
+      Enamorada de la música jazz por su elegancia y sus improvisaciones frenéticas, lo que más trabajo en mi baile son la creatividad y la conexión con la música, junto a un estilo personal y desenfadado.
+
+      Comparto el lenguaje y la filosofía del swing (jazz de los años 30) para cualquier nivel.
+
+      En mis talleres aprendemos a soltar el cuerpo, a entregarnos y abrirnos a la experiencia, a conectar con las raíces del baile, tan relacionadas con la tierra.
+
+      Mi objetivo es crear una atmósfera que invite a los alumnos a entrar en su propio estado de flow.
+
+      Trabajo ejercicios de improvisación en diferentes niveles: combinar pasos, generar ritmos de manera intuitiva, conectar con la música y, sobretodo, crear su propia visión del baile.
+
+      He impartido clases de solo jazz Y lindy hop en diferentes escuelas de la Comunidad Valenciana:
+      Black Bottom (Valencia), Little Black (Alcoi), Castellón Baila (Castellón); así como talleres en festivales o en otras escuelas como The Nest (Alicante), Rythme (La Vall d'Uixó), Morella Swing Weekend (Morella).
+    more:
+      align: left
+      align_xl: right
+  - order: 7
+    image: baile-jazz.png
+    more:
+      ratio: 3x4
+  - title: Más sobre mi
+    subtitle: Si tienes un proyecto a corazón abierto, ¡aquí es!
+    order: 8
+    description: |
+      [btn icon-instagram Instagram Arte](https://www.instagram.com/irenephemeral/ "nofollow")
+      [btn icon-instagram Instagram Jazz](https://www.instagram.com/vibrajazz/ "nofollow")
+      [btn icon-youtube Youtube](https://www.youtube.com/channel/UCtMxSekTZTKDc18Fx496e5Q "nofollow")
+      [btn icon-behance Behance](https://www.behance.net/irenephemeral "nofollow")
+      [btn icon-spotify Spotify Podcast](https://open.spotify.com/show/3Ql49sRqH3naSXQUQePQoh "nofollow")
+      [btn icon-spotify Spotify Música](https://open.spotify.com/artist/4dfj4hisrtJ6WEV0t3HK36 "nofollow")
+      [btn icon-ivoox Ivoox](https://www.ivoox.com/podcast-mensaje-del-arte_sq_f11454774_1.html "nofollow")
+      [btn icon-amazon Amazon Music](https://music.amazon.com/artists/B0BP4DW4WS/irene-ephemeral "nofollow")
+      [btn icon-google Google](https://g.page/r/CTjZdBKSdzM8EAI "nofollow")
+    more:
+      align: left

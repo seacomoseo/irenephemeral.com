@@ -1,0 +1,32 @@
+baseURL: https://irenephemeral.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/irenephemeral/irenephemeral.com
+  netlify_name: irenephemeral
+  netlify_id: b419a842-ce03-44ca-a273-1342206a7a9a
+  drive_link: https://drive.google.com/file/d/1JFYeM-lNLmB9YJ2XJl-QLvpq0kveHbct
+  drive_mails: ephemeralhand@gmail.com, ireneiglesiassuarez@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

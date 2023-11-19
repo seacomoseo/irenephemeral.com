@@ -1,0 +1,18 @@
+id: video-y-animacion--bailarines-lucas-dos-lunas
+title: Bailarines
+subtitle: Animación
+image: https://youtu.be/_Q9iirbU5t0
+description: |
+  - icon-user **Cliente:** Lucas dos lunas.
+  - icon-lightbulb-on **Concepto:** Animación para pieza musical. Bailarines bailando en un nenúfar, creando un espacio fantasioso y romántico.
+  - icon-block-brick **Materiales:** Dos semanas.
+  - icon-clock **Duración del trabajo:** Lucas dos lunas.
+rows:
+- type: gallery
+  design:
+    num: 6
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--4-video-y-animacion--20-bailarines-lucas-dos-lunas-1.webp
+  - 1-arte-grafico--4-video-y-animacion--20-bailarines-lucas-dos-lunas-2.webp

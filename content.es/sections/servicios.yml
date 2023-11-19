@@ -1,0 +1,38 @@
+title: Servicios
+icon: letras-servicios
+rows:
+- type: columns
+  design:
+    num: 3
+    color: light
+    link: '#contacto'
+    font_alt: true
+    label: ¡Cuéntame tu propuesta!
+    licon: none
+    ratio: 3x2
+    inset: true
+  items:
+  - title: Arte Gráfico
+    subtitle: Algunas ideas
+    image: 1-arte-grafico--2-pintura-mural--14-pachamama-5.webp
+    icon: letras-arte-grafico
+    description: |
+      - Pintura mural en espacios públicos y privados, interior y exterior
+      - Diseño para producciones musicales
+      - Personalización de instrumentos musicales
+  - title: Música
+    subtitle: Algunas ideas
+    image: 2-musica-medicina--29-musica-y-masaje.jpg
+    icon: letras-musica-medicina
+    description: |
+      - Masajes con musica medicina en retiros o espacios tranquilos
+      - Concierto en acústico
+      - Colaboraciones, conciertos, improvisación o composición y producción
+  - title: Baile Solo Jazz
+    subtitle: Algunas ideas
+    image: 3-baile-jazz-2.jpg
+    icon: letras-baile-jazz
+    description: |
+      - Talleres de solo jazz
+      - Talleres de lindy hop (follower)
+      - Vídeo publicitario de festivales

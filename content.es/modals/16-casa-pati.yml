@@ -1,0 +1,22 @@
+id: pintura-mural--casa-pati
+title: Habitación privada
+subtitle: Pintura mural
+image: https://youtu.be/nitUP8Klfoc
+description: |
+  - icon-user **Cliente:** Particular.
+  - icon-lightbulb-on **Concepto:** Crear una atmósfera para fomentar la energía creativa en ese espacio. \
+    Un requisito fue colores tierra y pastel, para que la estancia en esa habitación fuera agradable. \
+    Con el uso de las líneas onduladas creé un patrón orgánico que simula la apertura del ojo interno, la entrada al propio trance creativo.
+  que da lugar a una relación amorosa y amistosa entre ellos. Danzan juntos celebrando su complicidad.
+  - icon-block-brick **Materiales:** Pintura para pared.
+  - icon-clock **Duración del trabajo:** Una semana.
+rows:
+- type: gallery
+  design:
+    num: 4
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--2-pintura-mural--16-casa-pati-1.jpg
+  - 1-arte-grafico--2-pintura-mural--16-casa-pati-2.jpg
+  - 1-arte-grafico--2-pintura-mural--16-casa-pati-3.webp

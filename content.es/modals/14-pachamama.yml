@@ -1,0 +1,28 @@
+id: pintura-mural--pachamama
+title: Pachamama
+subtitle: Mural
+image: 1-arte-grafico--2-pintura-mural--14-pachamama-3.webp
+description: |
+  - icon-user **Cliente:** Espacio privado de permacultura.
+  - icon-lightbulb-on **Concepto:** Representación de la Pachamama, la cual es la deidad que representa la Madre Tierra, una diosa adorada por los pueblos de los Andes. \
+    Ella es la fuerza creadora femenina, sabia y poderosa. La que impulsa y sostiene la vida. \
+    Maneja los elementos y mantiene los ciclos naturales de creación y destrucción.
+  - icon-block-brick **Materiales:** Pintura ecológica al agua. Proyector.
+  - icon-clock **Duración del trabajo:** Una semana.
+
+
+  ![9x16](https://youtu.be/w_m7oEf4C2E)
+rows:
+- type: gallery
+  design:
+    num: 5
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--2-pintura-mural--14-pachamama-1.webp
+  - 1-arte-grafico--2-pintura-mural--14-pachamama-2.jpg
+  - 1-arte-grafico--2-pintura-mural--14-pachamama-3.webp
+  - 1-arte-grafico--2-pintura-mural--14-pachamama-4.jpg
+  - 1-arte-grafico--2-pintura-mural--14-pachamama-6.jpg
+  - 1-arte-grafico--2-pintura-mural--14-pachamama-7.jpg
+  - 1-arte-grafico--2-pintura-mural--14-pachamama-5.webp

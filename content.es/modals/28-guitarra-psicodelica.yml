@@ -1,0 +1,22 @@
+id: objetos--guitarra-psicodelica
+title: Guitarra Psicodélica
+subtitle: Pintura en Objeto
+image: 1-arte-grafico--5-objetos--28-guitarra-psicodelica-2.jpg
+description: |
+  - icon-lightbulb-on **Concepto:** Diseño inspirado en la cultura chamánica, en la música medicina y en la psicodélia. \
+    El sonido como colores que se expanden. \
+    El ojo como representación de la visión y de la guía a través de la música.
+  - icon-block-brick **Materiales:** Rotuladores de pintura al agua, barniz.
+  - icon-clock **Duración del trabajo:** Dos semanas.
+rows:
+- type: gallery
+  design:
+    num: 6
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--5-objetos--28-guitarra-psicodelica-1.jpg
+  - 1-arte-grafico--5-objetos--28-guitarra-psicodelica-2.jpg
+  - 1-arte-grafico--5-objetos--28-guitarra-psicodelica-3.jpg
+  - 1-arte-grafico--5-objetos--28-guitarra-psicodelica-4.jpg
+  - 1-arte-grafico--5-objetos--28-guitarra-psicodelica-5.jpg

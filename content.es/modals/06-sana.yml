@@ -1,0 +1,21 @@
+id: pintura-digital-y-dibujos--sana
+title: Sana
+subtitle: Ilustración
+image: 1-arte-grafico--1-pintura-digital-y-dibujos--06-sana-1.webp
+description: |
+  - icon-lightbulb-on **Concepto:** \
+    El ritual como terapia sanadora. \
+    El poder femenino y la energía grupal. \
+    El desnudo como algo natural. \
+    El fuego como centro de reunión.
+  - icon-block-brick **Materiales:** Ilustración digital.
+  - icon-clock **Duración del trabajo:** Una semana.
+rows:
+- type: gallery
+  design:
+    num: 5
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--06-sana-1.webp
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--06-sana-2.jpg

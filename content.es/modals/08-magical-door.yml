@@ -1,0 +1,18 @@
+id: pintura-digital-y-dibujos--magical-door
+title: Magical door
+subtitle: Poster
+image: 1-arte-grafico--1-pintura-digital-y-dibujos--08-magical-door-1.jpg
+description: |
+  - icon-lightbulb-on **Concepto:** El cartel invita al espectador a entrar por "la puerta mágica". \
+    La puerta mágica es una metáfora de una perspectiva más amplia de la existencia, donde recuperamos la capacidad innata de asombro, la cual nos permite apreciar la belleza y la magia que hay en todo.
+  - icon-block-brick **Materiales:** Ilustración digital.
+  - icon-clock **Duración del trabajo:** Una semana.
+rows:
+- type: gallery
+  design:
+    num: 4
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--08-magical-door-1.jpg
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--08-magical-door-2.webp

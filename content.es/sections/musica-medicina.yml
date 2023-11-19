@@ -1,0 +1,25 @@
+title: Música Medicina
+size: sm
+icon: letras-musica-medicina
+description: |
+  <span id="musica-medicina-en-acustico-y-masaje"></span>
+  <span id="musica-medicina-electronica"></span>
+  {.filter-ids}
+
+  [icon-letras-masaje-y-musica-medicina-en-acustico](#musica-medicina-en-acustico-y-masaje "masaje-y-musica-medicina-en-acustico")
+  [icon-letras-musica-medicina-electronica         ](#musica-medicina-electronica          "musica-medicina-electronica")
+  {.filter}
+more:
+  container: light
+rows:
+- type: gallery
+  design:
+    num: 4
+    alt: true
+    wrap: false
+    gap: true
+  items:
+  - image: 2-musica-medicina--29-musica-y-masaje.jpg
+    link: '#musica-medicina-en-acustico-y-masaje--argentina'
+  - image: 2-musica-medicina--30-musica-electronica.webp
+    link: '#musica-medicina-electronica--espacio-sagrado'

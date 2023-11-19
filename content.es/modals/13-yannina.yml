@@ -1,0 +1,18 @@
+id: pintura-digital-y-dibujos--yannina
+title: Yannina
+subtitle: Retrato
+image: 1-arte-grafico--1-pintura-digital-y-dibujos--13-yannina-3.jpg
+description: |
+  - icon-lightbulb-on **Concepto:** Retrato de Yannina Thomassiny, periodista especializada en plantas maestras y psicodélicos.
+  - icon-block-brick **Materiales:** Rotuladores de pintura al agua y lápices de colores.
+  - icon-clock **Duración del trabajo:** Una semana.
+rows:
+- type: gallery
+  design:
+    num: 4
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--13-yannina-1.jpg
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--13-yannina-3.jpg
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--13-yannina-2.jpg

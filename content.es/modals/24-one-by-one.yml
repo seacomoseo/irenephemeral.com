@@ -1,0 +1,18 @@
+id: video-y-animacion--one-by-one
+title: One by one
+subtitle: Animación y concepto
+image: https://www.youtube.com/watch?v=hSlth18AaJg
+description: |
+  - icon-lightbulb-on **Concepto:** Animación y concepto para miniserie de clases de solo jazz nivel inicial.
+  - icon-clock **Duración del trabajo:** Una semana.
+
+  [btn icon-youtube Serie completa](https://www.youtube.com/watch?v=_IouCXkH8hI&list=PLQfNfWMa02K2ReeyiAR7BZzti1Kh5gpZT)
+rows:
+- type: gallery
+  design:
+    num: 6
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--4-video-y-animacion--24-one-by-one-1.jpg
+  - 1-arte-grafico--4-video-y-animacion--24-one-by-one-2.jpg

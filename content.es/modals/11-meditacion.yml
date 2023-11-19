@@ -1,0 +1,19 @@
+id: pintura-digital-y-dibujos--meditacion
+title: Meditación
+subtitle: Ilustración
+image: 1-arte-grafico--1-pintura-digital-y-dibujos--11-meditacion-1.webp
+description: |
+  - icon-lightbulb-on **Concepto:** Representa el estado divino que se puede llegar a alcanzar durante la meditación. El poder del ser, la energía. \
+    En una posición de sostén, se siente como uno se sostiene a si mismo, y a su propio mundo y existencia, pudiendo extender esta sensación a cualquier cosa o situación.
+  - icon-block-brick **Materiales:** Ilustración digital.
+  - icon-clock **Duración del trabajo:** Una semana.
+rows:
+- type: gallery
+  design:
+    num: 4
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--11-meditacion-1.webp
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--11-meditacion-2.jpg
+  - 1-arte-grafico--1-pintura-digital-y-dibujos--11-meditacion-3.jpg

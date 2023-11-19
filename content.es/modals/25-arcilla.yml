@@ -1,0 +1,15 @@
+id: objetos--arcilla
+title: Arcilla
+subtitle: Experimentación
+image: 1-arte-grafico--5-objetos--25-arcilla-1.jpg
+rows:
+- type: gallery
+  design:
+    num: 6
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--5-objetos--25-arcilla-1.jpg
+  - 1-arte-grafico--5-objetos--25-arcilla-2.jpg
+  - 1-arte-grafico--5-objetos--25-arcilla-3.jpg
+  - 1-arte-grafico--5-objetos--25-arcilla-4.jpg

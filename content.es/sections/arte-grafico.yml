@@ -1,0 +1,83 @@
+title: Arte Gráfico
+size: sm
+icon: letras-arte-grafico
+description: |
+  <span id="arte-grafico-pintura-digital-y-dibujos"></span>
+  <span id="arte-grafico-pintura-mural"></span>
+  <span id="arte-grafico-encargos"></span>
+  <span id="arte-grafico-video-y-animacion"></span>
+  <span id="arte-grafico-objetos"></span>
+  {.filter-ids}
+
+  [icon-letras-arte-grafico-dibujo-y-pintura-digital](#arte-grafico-pintura-digital-y-dibujos "pintura-digital-y-dibujos")
+  [icon-letras-arte-grafico-pintura-mural           ](#arte-grafico-pintura-mural             "pintura-mural")
+  [icon-letras-arte-grafico-encargos-personalizados ](#arte-grafico-encargos                  "encargos")
+  [icon-letras-arte-grafico-video-y-animacion       ](#arte-grafico-video-y-animacion         "video-y-animacion")
+  [icon-letras-arte-grafico-objetos                 ](#arte-grafico-objetos                   "objetos")
+  {.filter}
+more:
+  container: light
+rows:
+- type: gallery
+  design:
+    num: 4
+    alt: true
+    wrap: false
+    gap: true
+  items:
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--01-danza-luz-y-oscuridad-1.jpg
+    link: '#pintura-digital-y-dibujos--danza-luz-y-oscuridad'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--02-souland-1.jpg
+    link: '#pintura-digital-y-dibujos--souland'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--03-el-mensaje-del-arte-portada-1.webp
+    link: '#pintura-digital-y-dibujos--el-mensaje-del-arte-portada'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--04-natural-power-1.jpg
+    link: '#pintura-digital-y-dibujos--natural-power'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--05-unidad-1.jpg
+    link: '#pintura-digital-y-dibujos--unidad'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--06-sana-1.webp
+    link: '#pintura-digital-y-dibujos--sana'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--07-diosa-de-la-quinta-dimension-1.jpg
+    link: '#pintura-digital-y-dibujos--diosa-de-la-quinta-dimension'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--08-magical-door-1.jpg
+    link: '#pintura-digital-y-dibujos--magical-door'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--09-el-todo-y-yo-portada-1.jpg
+    link: '#pintura-digital-y-dibujos--el-todo-y-yo-portada'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--10-wachuma.webp
+    link: '#pintura-digital-y-dibujos--wachuma'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--11-meditacion-1.webp
+    link: '#pintura-digital-y-dibujos--meditacion'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--12-oasis-branding-para-festival-1.webp
+    link: '#pintura-digital-y-dibujos--oasis-branding-para-festival'
+  - image: 1-arte-grafico--1-pintura-digital-y-dibujos--13-yannina-1.jpg
+    link: '#pintura-digital-y-dibujos--yannina'
+  - image: 1-arte-grafico--2-pintura-mural--14-pachamama-1.webp
+    link: '#pintura-mural--pachamama'
+  - image: 1-arte-grafico--2-pintura-mural--15-gaia-1.jpg
+    link: '#pintura-mural--gaia'
+  - image: 1-arte-grafico--2-pintura-mural--16-casa-pati-1.jpg
+    link: '#pintura-mural--casa-pati'
+  - image: 1-arte-grafico--3-encargos--17-imagen-susurros.webp
+    link: '#encargos--imagen-susurros'
+  - image: 1-arte-grafico--3-encargos--18-all-these-humans-youtube-02.jpg
+    link: '#encargos--all-these-humans-youtube'
+  - image: 1-arte-grafico--3-encargos--19-guia-retrato-perfecto-all-these-humans-y-kike-arnaiz-1.jpg
+    link: '#encargos--guia-retrato-perfecto-all-these-humans-y-kike-arnaiz'
+  - image: 1-arte-grafico--4-video-y-animacion--20-bailarines-lucas-dos-lunas-1.webp
+    link: '#video-y-animacion--bailarines-lucas-dos-lunas'
+  - image: 1-arte-grafico--4-video-y-animacion--21-la-botica-de-gaia-1.webp
+    link: '#video-y-animacion--la-botica-de-gaia'
+  - image: 1-arte-grafico--4-video-y-animacion--22-black-bottom-2020.jpg
+    link: '#video-y-animacion--black-bottom'
+  - image: 1-arte-grafico--4-video-y-animacion--23-balbeach2022-1.jpg
+    link: '#video-y-animacion--balbeach2022'
+  - image: 1-arte-grafico--4-video-y-animacion--24-one-by-one-1.jpg
+    link: '#video-y-animacion--one-by-one'
+  - image: 1-arte-grafico--5-objetos--25-arcilla-1.jpg
+    link: '#objetos--arcilla'
+  - image: 1-arte-grafico--5-objetos--26-chaquetas-souland-1.jpg
+    link: '#objetos--chaquetas-souland'
+  - image: 1-arte-grafico--5-objetos--27-guitarra-buda-1.jpg
+    link: '#objetos--guitarra-buda'
+  - image: 1-arte-grafico--5-objetos--28-guitarra-psicodelica-1.jpg
+    link: '#objetos--guitarra-psicodelica'

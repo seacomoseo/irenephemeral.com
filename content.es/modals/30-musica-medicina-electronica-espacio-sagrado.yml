@@ -1,0 +1,23 @@
+id: musica-medicina-electronica--espacio-sagrado
+title: Música electrónica
+subtitle: Música Medicina
+image: https://www.youtube.com/watch?v=1t--CSiGR7o
+description: |
+  - icon-lightbulb-on **Concepto:**
+
+  Actualmente estoy aprendiendo nuevas vías de creación de música.
+
+  Inspirada en la música shamanica, meditativa, hindú, en búsqueda de una fusión entre lo ancestral y lo contemporaneo, buscando crear una atmósfera que haga entrar a quien lo escuche en un psicodélico estado de flow.
+
+  ¡Ya puedes escuchar "El todo y yo", mi primer single en spotify y youtube!
+
+  [btn icon-spotify Escuchar en Spotify](https://open.spotify.com/show/3Ql49sRqH3naSXQUQePQoh "nofollow")
+  [btn icon-youtube Escuchar en Youtube](https://www.youtube.com/watch?v=1t--CSiGR7o "nofollow")
+rows:
+- type: gallery
+  design:
+    num: 1
+    alt: true
+    gap: true
+  images:
+  - 2-musica-medicina--30-musica-electronica.webp

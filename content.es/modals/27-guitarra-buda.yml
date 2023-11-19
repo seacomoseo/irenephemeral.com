@@ -1,0 +1,27 @@
+id: objetos--guitarra-buda
+title: Guitarra Buda
+subtitle: Pintura en Objeto
+image: 1-arte-grafico--5-objetos--27-guitarra-buda-1.jpg
+description: |
+  - icon-lightbulb-on **Concepto:** Diseño inspirado en los ojos de buda. \
+    Atrás está la representación de una diosa/buda, con el Abhaya Mudra (mano hacia arriba), representando perdón y bendición. \
+    Indica tranquilidad, seguridad, ausencia de miedo. \
+    Es uno de los primeros mudras descrito en el imaginario hindú. \
+    Con la otra mano hace el Varada mudra (mano abajo), el cual representa generosidad, caridad, concesión de deseos, básicamente muestra una actitud de dar. \
+    Su expresión facial es tranquila, rotunda, estable. Nada perturba a una diosa.
+  - icon-block-brick **Materiales:** Rotuladores de pintura al agua, barniz.
+  - icon-clock **Duración del trabajo:** Dos semanas.
+rows:
+- type: gallery
+  design:
+    num: 5
+    alt: true
+    gap: true
+  images:
+  - 1-arte-grafico--5-objetos--27-guitarra-buda-1.jpg
+  - 1-arte-grafico--5-objetos--27-guitarra-buda-2.jpg
+  - 1-arte-grafico--5-objetos--27-guitarra-buda-3.jpg
+  - 1-arte-grafico--5-objetos--27-guitarra-buda-4.jpg
+  - 1-arte-grafico--5-objetos--27-guitarra-buda-5.jpg
+  - 1-arte-grafico--5-objetos--27-guitarra-buda-6.jpg
+  - 1-arte-grafico--5-objetos--27-guitarra-buda-7.jpg

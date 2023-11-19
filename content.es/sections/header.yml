@@ -1,0 +1,46 @@
+anchor: Artista Multidisciplinar, Arte Visionario
+# description: |
+#   [icon-letras-sobre-mi](#sobre-mi)
+#   [icon-letras-contacto](#contacto)
+image: logo-alt.svg
+bg: fondo.jpg
+more:
+  full_screen: true
+  padding_top: 2
+  image_min: 18
+  image_max: 28
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+    align_x: space-evenly
+    icon_type: bottom
+    ratio: circle
+  items:
+
+  - title: Arte Gráfico
+    link: '#arte-grafico'
+    image: 1-arte-grafico--1-pintura-digital-y-dibujos--07-diosa-de-la-quinta-dimension-1.jpg
+    icon: letras-arte-grafico
+  - title: Música Medicina
+    link: '#musica-medicina'
+    image: 1-arte-grafico--5-objetos--27-guitarra-buda-2.jpg
+    icon: letras-musica-medicina
+  - title: Baile Jazz
+    link: '#baile-jazz'
+    image: 3-baile-jazz-1.jpg
+    icon: letras-baile-jazz
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+    align_x: space-evenly
+    icon_type: bottom
+  items:
+  - title: Sobre mí
+    link: '#sobre-mi'
+    icon: letras-sobre-mi
+  - title: Contacto
+    link: '#contacto'
+    icon: letras-contacto
