@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 512">
   <style>
-    @keyframes show-up {
+    @keyframes show-from {
       0% {
         transform: translateY(3rem);
         opacity: 0;
@@ -27,7 +27,7 @@
     #logo-subtitle,
     #logo-stars,
     #logo-dots {
-      animation: show-up 1s both;
+      animation: show-from 1s both;
     }
     #logo-subtitle,
     #logo-dots {
